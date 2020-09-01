@@ -1,0 +1,9 @@
+*****************************************
+Rented on:2019-04-28 04:03:31.044259
+Customer Name:suikrit
+Customer Phone Number:9841354276
+Movie ID 		 Movie Name 		 Price
+M01				 Pulp Fiction				 $5
+M01				 Pulp Fiction				 $5
+M01				 Pulp Fiction				 $5
+The total price for renting movies is:$15.0

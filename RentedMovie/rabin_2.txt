@@ -1,0 +1,8 @@
+*****************************************
+Rented on:2019-05-02 15:44:36.203390
+Customer Name:rabin
+Customer Phone Number:2
+Movie ID 		 Movie Name 		 	Price
+M01				+value[0]+"				 $5
+
+The total price for renting movies is:$5.0

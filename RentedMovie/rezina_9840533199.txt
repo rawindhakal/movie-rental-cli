@@ -1,0 +1,7 @@
+*****************************************
+Rented on:2019-04-29 22:07:38.363652
+Customer Name:rezina
+Customer Phone Number:9840533199
+Movie ID 		 Movie Name 		 	Price
+M03				 The Revenant				 $4
+The total price for renting movies is:$4.0

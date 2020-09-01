@@ -1,0 +1,8 @@
+*****************************************
+Rented on:2019-05-03 01:04:42.005152
+Customer Name:rabin
+Customer Phone Number:1
+Movie ID 		 Movie Name 		 	Price
+M01				 Pulp Fiction				 $5
+
+The total price for renting movies is:$5.0

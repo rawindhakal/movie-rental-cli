@@ -1,0 +1,8 @@
+*****************************************
+Returned On:2019-04-28 04:04:15.394617
+Customer Name:Suikrit
+Customer Phone Number:9841354276
+Movie ID 		 Movie Name 		 Price
+M02				 Lord Of The Rings				 10
+M01				 Pulp Fiction				17
+The total price for renting movies is:$27.0Total fine for returning movie is:$38.5

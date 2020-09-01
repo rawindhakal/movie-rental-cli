@@ -1,0 +1,9 @@
+*****************************************
+Returned On:2019-05-02 15:35:32.195939
+Customer Name:rabin
+Customer Phone Number:1
+Movie ID 		 Movie Name 		 Price
+M01				 Pulp Fiction				19
+M02				 Lord Of The Rings				12
+The total price for renting movies is:$31.0
+Total fine for returning movie is:$0

@@ -1,0 +1,9 @@
+*****************************************
+Returned On:2019-05-02 16:00:10.036468
+Customer Name:Rabin
+Customer Phone Number:9841354276
+Movie ID 		 Movie Name 		 Price
+M01				 Pulp Fiction				 20
+M03				 The Revenant				 20
+The total price for renting movies is:$40.0
+Total fine for returning movie is:$31.5

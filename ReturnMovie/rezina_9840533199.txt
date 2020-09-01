@@ -1,0 +1,7 @@
+*****************************************
+Returned On:2019-04-29 22:09:27.710132
+Customer Name:rezina
+Customer Phone Number:9840533199
+Movie ID 		 Movie Name 		 Price
+M03				 The Revenant				19
+The total price for renting movies is:$19.0Total fine for returning movie is:$30.5

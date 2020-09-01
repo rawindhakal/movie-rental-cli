@@ -1,0 +1,9 @@
+*****************************************
+Rented on:2019-05-02 15:08:20.631031
+Customer Name:Rabin
+Customer Phone Number:9841354276
+Movie ID 		 Movie Name 		 	Price
+M01				 Pulp Fiction				 $5
+M02				 Lord Of The Rings				 $2.5
+
+The total price for renting movies is:$7.5
